@@ -7,7 +7,7 @@ This repository contains multiple hands-on machine learning projects completed a
 Each project focuses on solving a real-world business problem using data analysis, machine learning models, and business insights.
 
 ---
-## 📊 Project 02: Sales Forecasting & Predictive Analytics Dashboard 
+## 📊 Project 01: Sales Forecasting & Predictive Analytics Dashboard 
 ### 📌 Project Overview
 
 This project focuses on building a sales forecasting system that helps retail businesses predict future sales using historical transaction data. The goal is to uncover sales trends, seasonality patterns, and provide actionable insights through an interactive Power BI dashboard.
