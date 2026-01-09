@@ -1,6 +1,5 @@
 # FUTURE_ML_02
 
-
 ## Machine Learning Internship Assignments
 
 This repository contains multiple hands-on machine learning projects completed as part of my internship.
