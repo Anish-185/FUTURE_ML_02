@@ -1,8 +1,0 @@
-# Project 01: AI-Powered Sales Forecasting Dashboard
-
-This folder contains the complete implementation and report for the AI-Powered Sales Forecasting Dashboard
-
-project.
-
-- Jupyter Notebook: End-to-end ML pipeline
-- PDF Report: Business-focused insights and conclusions
